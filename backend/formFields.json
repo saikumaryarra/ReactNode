@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "label": "Name",
+    "type": "text",
+    "placeholder": "Enter your name"
+  },
+  {
+    "id": 2,
+    "label": "Email",
+    "type": "email",
+    "placeholder": "Enter your email"
+  }
+]
